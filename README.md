@@ -28,16 +28,15 @@
 
 4. Nav + Get All Photos
   - Actions => getAllPhotos
-  - Components => PaginationOne.js
+  - Components => Gallery.js
 
 5. Image Placeholder + blurDataURL
   - https://youtu.be/noR4Ben87Sw?si=gk1nN-RU0QNh6vsI
 
-## Infinite Scrolling Pagination
+6. Infinite Scroll Pagination
+  - Pagination
+  - Load More
+  - Infinite Scroll
 
-6. Pagination ( way 1 )
-
-7. Pagination ( way 2 ) 
-
-8. Deploy Vercel
+7. Deploy Vercel  
   
