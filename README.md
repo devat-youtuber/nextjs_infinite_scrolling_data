@@ -12,31 +12,33 @@
   - next: "13.4.19" or Later   
   - next.config:   
       experimental:{   
-        serverActions: true   
-      },   
-      images: {   
-        formats: ['image/avif', 'image/webp'],    
+        serverActions: true    
+      },    
+      images: {    
+        formats: ['image/avif', 'image/webp'],     
       }   
 
-2. Setup Mongodb (mongoose) => npm i mongoose
-  - Connect to MongoDb
-  - Models (photo)
+2. Setup Mongodb (mongoose) => npm i mongoose    
+  - Connect to MongoDb   
+  - Models (photo)   
 
-3. Import Data
-  - Actions => insertManyPhotos
-  - Components => InitData
+3. Import Data   
+  - Actions => insertManyPhotos   
+  - Components => InitData   
+ 
+4. Nav + Get All Photos    
+  - Actions => getAllPhotos    
+  - Components => Gallery.js   
 
-4. Nav + Get All Photos
-  - Actions => getAllPhotos
-  - Components => Gallery.js
+5. Image Placeholder + blurDataURL   
+  - https://youtu.be/noR4Ben87Sw?si=gk1nN-RU0QNh6vsI   
 
-5. Image Placeholder + blurDataURL
-  - https://youtu.be/noR4Ben87Sw?si=gk1nN-RU0QNh6vsI
+6. Infinite Scroll Pagination   
+  - Pagination   
+  - Load More   
+  - Infinite Scroll   
 
-6. Infinite Scroll Pagination
-  - Pagination
-  - Load More
-  - Infinite Scroll
+7. Deploy Vercel    
 
-7. Deploy Vercel  
-  
+📚 Materials/References:  
+  - https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
