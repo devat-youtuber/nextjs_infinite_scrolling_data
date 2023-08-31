@@ -20,7 +20,6 @@ export const imgUrls = [
   'https://res.cloudinary.com/dn2htlate/image/upload/v1660537236/samples/ecommerce/accessories-bag.jpg',
   'https://res.cloudinary.com/dn2htlate/image/upload/v1660537235/samples/ecommerce/leather-bag-gray.jpg',
   'https://res.cloudinary.com/dn2htlate/image/upload/v1660537235/samples/ecommerce/car-interior-design.jpg',
-  'https://res.cloudinary.com/dn2htlate/image/upload/v1660537226/samples/sheep.jpg',
   'https://res.cloudinary.com/dn2htlate/image/upload/v1688616633/nextjs_upload_files/lqarbvqgnbk5z2owdkw2.jpg',
   'https://res.cloudinary.com/dn2htlate/image/upload/v1688616633/nextjs_upload_files/mjsnuztu0h1g9puvhuwh.jpg',
   'https://res.cloudinary.com/dn2htlate/image/upload/v1688610393/fashion/y4nsqunj2fpfjvfnecpe.jpg',
