@@ -1,4 +1,4 @@
-# Two Ways To Implement Infinite Scroll Pagination Using NextJS Server Actions.
+# Implement Infinite Scrolling Pagination using NextJS Server Actions.
 
 1. Setup Nextjs      
   - npx create-next-app@latest ./    
