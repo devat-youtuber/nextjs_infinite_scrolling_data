@@ -1,4 +1,4 @@
-# Implement Infinite Scrolling Pagination using NextJS Server Actions.
+# Two Ways Implement Infinite Scrolling Pagination using NextJS Server Actions.
 
 1. Setup Nextjs      
   - npx create-next-app@latest ./    
@@ -33,12 +33,16 @@
 5. Image Placeholder + blurDataURL   
   - https://youtu.be/noR4Ben87Sw?si=gk1nN-RU0QNh6vsI   
 
-6. Infinite Scroll Pagination   
-  - Pagination   
-  - Load More   
-  - Infinite Scroll   
+6. Infinite Scroll Pagination ( 1st Way )
+  - Pagination
+  - Load More
+  - Infinite Scroll
 
-7. Deploy Vercel    
+7. Optimized for blurDataURL.
+
+8. Infinite Scroll Pagination ( 2nd Way )
+
+9. Deploy Vercel   
 
 📚 Materials/References:  
   - https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
